@@ -1,4 +1,3 @@
-<h1 align="center">Daniel Silva</h1>
 <h3 align="center">Desenvolvedor em formação</h3>
 
 <img width="1600" height="595" alt="Image" src="https://github.com/user-attachments/assets/5d70c4fe-7973-46a7-bb49-137da6b2b70c" />
