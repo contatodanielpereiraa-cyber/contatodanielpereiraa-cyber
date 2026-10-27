@@ -1,9 +1,9 @@
 <img width="1600" height="595" alt="Image" src="https://github.com/user-attachments/assets/5d70c4fe-7973-46a7-bb49-137da6b2b70c" />
 
 <h2 align="center">Desenvolvedor em formação</h2>
-Me chamo Daniel Silva, sou do Rio de Janeiro e curso Análise e Desenvolvimento de Sistemas na Uniasselvi. 
+Sou do Rio de Janeiro e cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. 
 Sou apaixonado por tecnologia e programação, sempre em busca de novos aprendizados e evolução na área.
-#
+
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
